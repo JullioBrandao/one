@@ -1,0 +1,12 @@
+The key's randomart image is:
++---[RSA 3072]----+
+|=*. .            |
+|%+o= o           |
+|XO.oB .          |
+|O++..o..         |
+|oB.o o.oS        |
+|o *Eo ooo        |
+| o o o.o         |
+|   .=.           |
+|    oo           |
++----[SHA256]-----+
